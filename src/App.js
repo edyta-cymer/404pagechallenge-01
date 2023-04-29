@@ -7,7 +7,7 @@ function App() {
       <div id="not-found-div">
         <span id="not-found-span">404 NOT FOUND</span>
         <div id="container">
-          <img src={photo} id="photo" alt="photo"></img>
+          <img src={photo} id="photo" alt="witcher"></img>
           <div id="box">
             <h1>I have bad news for you</h1>
             <div id="p-box">
